@@ -1,3 +1,7 @@
+/* This file is mainly about the Motor class, with some helpful extra functions.
+*
+*/
+
 #include "motor_controller.h"
 #include "Arduino.h"
 #include "PID_v1.h"
@@ -105,8 +109,6 @@ void Motor::isrB() {
     count--;
   }
 }
-
-
 
 /*
   This function is used to manually set the speed of the motor.

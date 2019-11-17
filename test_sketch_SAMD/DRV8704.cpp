@@ -1,3 +1,7 @@
+/*
+* Represents a motor driver. http://www.ti.com/product/DRV8704
+*/
+
 #include "constants.h"
 #include "DRV8704.h"
 #include <SPI.h>

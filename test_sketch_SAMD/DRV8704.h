@@ -1,3 +1,7 @@
+/*
+* Declarations for motor drivers. http://www.ti.com/product/DRV8704
+*/
+
 #ifndef DRV8704_H
 #define DRV8704_H
 #include "constants.h"
