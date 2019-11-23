@@ -2,7 +2,7 @@
 Software Controls for the UDrive Motor Controller
 
 ## GUI Installation Instructions
-**NOTE: SAMD21 32-bit ARM Cortex-M0+ does NOT have driver support for Windows 8**
+**NOTE: SparkFun SAMD21 32-bit ARM Cortex-M0+ does NOT have driver support for Windows 8**
 
 This installation will use Anaconda because it allows easy installation of PyQt4 with Python 2.7 (which are both older versions).
 
