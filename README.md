@@ -1,6 +1,8 @@
 # UDrive
 Software Controls for the UDrive Motor Controller
 
+**NOTE: This repository was archived due to a combination of unknown code bugs and lack of documentation for the code and motor drivers. The club will be switching over to new motor drivers and a new microcontroller.**
+
 ## GUI Installation Instructions
 **NOTE: SparkFun SAMD21 32-bit ARM Cortex-M0+ does NOT have driver support for Windows 8**
 
